@@ -4,6 +4,8 @@ import java.util.List;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
+//修改过一次了
+
 /**
  *
  * 题目：三个售票员 卖出  30张票
